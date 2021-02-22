@@ -26,8 +26,10 @@ if ($pg) {
 
         case 'contato':
 
-
-            include_once './site/paginas/contato.php';
+            include_once 'site/paginas/includes/header.php';
+            include_once 'site/paginas/includes/menus.php';
+            include_once 'site/paginas/contato.php';
+            include_once './site/paginas/includes/footer.php';
 
             break;
 
@@ -40,13 +42,20 @@ if ($pg) {
 
         case 'paginacards':
 
-
             include_once './painel/paginas/includes/header.php';
             include_once './site/paginas/paginacards.php';
             include_once './painel/paginas/includes/footer.php';
             break;
-           
-           
+
+        case 'paginaartigos':
+
+
+            include_once './painel/paginas/includes/header.php';
+            include_once './site/paginas/paginaartigos.php';
+            include_once './painel/paginas/includes/footer.php';
+            break;
+
+
 
         case 'paginas':
 
@@ -66,14 +75,22 @@ if ($pg) {
 
             include_once 'site/paginas/inicial.php';
             echo 'default';
-            
+
 
             break;
     }
 } else {
 //não existe   
-    include_once 'site/paginas/inicial.php';
-    echo 'sçldkjfgçlks';
+    include_once 'site/paginas/includes/header.php';
+    include_once 'site/paginas/includes/menus.php'; 
+    include_once 'site/paginas/inicial.php'; 
+    include_once 'site/paginas/includes/footer.php';  
+
+    include_once 'site/paginas/includes/menus.php';
+    include_once 'site/paginas/contato.php';
+    include_once './site/paginas/includes/footer.php';
+    echo 'nova ateracao';
+
 }
 
 
