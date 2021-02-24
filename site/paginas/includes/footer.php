@@ -108,13 +108,16 @@
     </div>
 </footer>
 
-<script src="painel/plugins/jquery/jquery.min.js"></script>
+<script src="site/plugins/jquery/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
-<script src="painel/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-<!-- AdminLTE App -->
-<script src="painel/dist/js/adminlte.min.js"></script>
-<!-- AdminLTE for demo purposes -->
-<script src="painel/dist/js/demo.js"></script><!-- /.control-sidebar -->
+<script src="site/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+<!--pagina Inicial Plugins-->
+<script src="site/plugins/flickity/flickity.pkgd.min.js"></script>
+<script src="site/dist/js/adminlte.min.js"></script>
+<script src="site/dist/js/demo.js"></script>
+<script src="site/assets/js/slide.js"></script>
 
 </body>
 </html>

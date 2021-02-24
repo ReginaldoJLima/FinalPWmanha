@@ -15,10 +15,16 @@
         <!-- Google Font: Source Sans Pro -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
         <!-- Font Awesome -->
-        <link rel="stylesheet" href="painel/plugins/fontawesome-free/css/all.min.css">
-        <!-- Theme style -->
-        <link rel="stylesheet" href="painel/dist/css/adminlte.min.css">
+        <link rel="stylesheet" href="site/plugins/fontawesome-free/css/all.min.css">
 
+        <!-- Adminlte CSS -->
+        <link rel="stylesheet" href="site/dist/css/adminlte.min.css">
+        <!-- Header CSS -->
+        <link rel="stylesheet" href="site/assets/css/header.css">
+        <!-- Menu CSS -->
+        <link rel="stylesheet" href="site/assets/css/menu.css">
+        <!-- Flickity CSS -->
+        <link rel="stylesheet" href="site/plugins/flickity/flickity.css">
         <!--footer plugin blog-->
         <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css'>
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css'>      

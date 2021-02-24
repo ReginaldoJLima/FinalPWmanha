@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Sanchez";
+    src: url(site/assets/font/Sanchezregular.otf)
+        
+}
+header{
+    height: 100px;
+     padding-bottom: 0;
+}
+.senacpe{
+    margin-left: 120px;
+    width: 150px;
+     padding-bottom: 0;
+   
+}
+
+.saladeestudos{
+    font-size: 30px;
+    color: #084298;
+   text-align: center;
+   margin-top: 35px;    
+}
+body {
+ font-family: "Sanchez";
+     
+}
+header hr{
+padding: 2px;
+background-color: #ff6600;
+margin-bottom: 0;
+    
+}
