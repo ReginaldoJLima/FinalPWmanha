@@ -1,0 +1,13 @@
+#btnTop{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    
+    height: 50px;
+    width: 50px;
+    color: #FFFFFF;
+    background-color: #333333;
+    border: none;
+    border-radius: 50vh;
+    display: none;
+}

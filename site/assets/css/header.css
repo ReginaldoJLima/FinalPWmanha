@@ -1,32 +1,45 @@
 @font-face {
     font-family: "Sanchez";
     src: url(site/assets/font/Sanchezregular.otf)
-        
 }
-header{
-    height: 100px;
-     padding-bottom: 0;
+
+.menuprincipal{
+    height: 60px;
+    background-color: white;
+    margin-left: 120px;
+    font-family: "Sanchez";
+
+}
+
+.menuuuu{
+    margin-left: 60px;
+}
+
+.menuprincipal i{
+    font-size: 20px;
+    margin: 0auto;
 }
 .senacpe{
-    margin-left: 120px;
+    margin-left: 150px;
     width: 150px;
-     padding-bottom: 0;
-   
 }
 
 .saladeestudos{
     font-size: 30px;
     color: #084298;
-   text-align: center;
-   margin-top: 35px;    
+    text-align: center;
+    margin-top: 35px;    
 }
+
 body {
- font-family: "Sanchez";
-     
+    background-color: white;
+    font-family: "Sanchez";
+
 }
-header hr{
-padding: 2px;
-background-color: #ff6600;
-margin-bottom: 0;
-    
+
+.hrmenu{
+    border: 3px solid #ff6600;
+    background-color: #ff6600;
+    margin-bottom: 0;
+
 }

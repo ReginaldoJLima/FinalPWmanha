@@ -17,8 +17,10 @@
   box-sizing: border-box;
 }
 body { 
-    font-family: sans-serif; 
+    font-family: sans-serif;
+    
 }
+
 .gallery {
  height: 275px;
  width: 100%;

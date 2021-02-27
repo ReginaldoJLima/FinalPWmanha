@@ -3,45 +3,38 @@
     <div class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-lg-3">
+                <div class="col-md-6 col-lg-4">
                     <div class="footer-blog">
-                        <h3>Do Blog: </h3>
-                        <div>
-                            <a href="">Lorem ipsum dolor sit amet</a>
-                            <p><i class="fa fa-time"></i>01-Jan-2045</p>
-                        </div>
-                        <div>
-                            <a href="">Lorem ipsum dolor sit amet elit</a>
-                            <p><i class="fa fa-time"></i>01-Jan-2045</p>
-                        </div>
-                        <div>
-                            <a href="">Lorem ipsum dolor sit</a>
-                            <p><i class="fa fa-time"></i>01-Jan-2045</p>
-                        </div>
+                        <h3>Senac: </h3>
+                        <p>Instituição de educação profissional aberta a toda a sociedade, com a missão de desenvolver pessoas e organizações para o
+                  mundo do trabalho. O Serviço Nacional de Aprendizagem Comercial – Senac, pessoa jurídica de direito privado, sem fins 
+                  lucrativos, foi criado pelo Decreto-lei nº 8.621 de 10 de janeiro de 1946. Neste mesmo ano, foi fundado também seu 
+                  Departamento Regional de Pernambuco, instalado em 14 de outubro.
+                        </p>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-3">
+                <div class="col-md-6 col-lg-4">
                     <div class="footer-insta">
                         <h3>Instagram: </h3>
-                        <a href=""><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-1.jpg" alt="Image"></a>
-                        <a href=""><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-2.jpg" alt="Image"></a>
-                        <a href=""><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-3.jpg" alt="Image"></a>
-                        <a href=""><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-4.jpg" alt="Image"></a>
-                        <a href=""><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-5.jpg" alt="Image"></a>
-                        <a href=""><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-6.jpg" alt="Image"></a>
+                        <a href="https://www.instagram.com/senacpe/"><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-1.jpg" alt="Image"></a>
+                        <a href="https://www.instagram.com/senacpe/"><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-2.jpg" alt="Image"></a>
+                        <a href="https://www.instagram.com/senacpe/"><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-3.jpg" alt="Image"></a>
+                        <a href="https://www.instagram.com/senacpe/"><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-4.jpg" alt="Image"></a>
+                        <a href="https://www.instagram.com/senacpe/"><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-5.jpg" alt="Image"></a>
+                        <a href="https://www.instagram.com/senacpe/"><img src="https://demo.htmlcodex.com/917/bootstrap-footer-templates/img/img-6.jpg" alt="Image"></a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-3">
+                <div class="col-md-6 col-lg-4">
                     <div class="footer-tags">
                         <h3>Tags de ferramentas:            </h3>
-                        <a href="">Gastronomia</a>
-                        <a href="">Git</a>
-                        <a href="">dolor</a>
-                        <a href="">sit</a>
-                        <a href="">amet</a>
-                        <a href="">faucibus</a>
-                        <a href="">augue</a>
-                        <a href="">rutrum</a>
+                        <a href="http://www.pe.senac.br/para-voce/restaurante-escola/">Restaurante-escola</a>
+                        <a href="https://tecnoblog.net/400821/como-usar-o-github-guia-para-iniciantes/">Git</a>
+                        <a href="http://www.pe.senac.br/para-voce/salao-empresa/">Salão Empresa</a>
+                        <a href="http://www.pe.senac.br/o-senac/">O que é o senac?</a>
+                        <a href="http://www.pe.senac.br/o-senac/modelo-pedagogico-senac/">Modelo Pedagógico Senac</a>
+                        <a href="https://www.ead.senac.br/">Ead do Senac</a>
+                        <a href="http://www.pe.senac.br/publicacoes/">Publicações do Senac</a>
+                        <a href="http://www.pe.senac.br/para-voce/biblioteca-2/">Biblioteca</a>
                         <a href="">turpis</a>
                         <a href="">semper</a>
                         <a href="">lacinia</a>
@@ -52,17 +45,7 @@
                         <a href="">varius</a>
                         <a href="">metus</a>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                    <div class="footer-newsletter">
-                        <h3>Newsletter</h3>
-                        <div class="form">
-                            <input class="form-control" placeholder="Your Name">
-                            <input class="form-control" placeholder="Your Email">
-                            <button class="btn">Subscribe</button>
-                        </div>
-                    </div>
-                </div>
+                </div>                
             </div>
         </div>
         <div class="container">
@@ -70,19 +53,19 @@
                 <div class="row align-items-center">
                     <div class="col-md-4">
                         <h4>Fale conosco</h4>
-                        <p>+123 456 7890</p>
+                        <p>0800 0811688 / (81) 3413.6728 / 6729 / 6730</p>
                     </div>
                     <div class="col-md-4">
                         <h4>Nosso email:</h4>
-                        <p>info@example.com</p>
+                        <p>senac@pe.senac.br</p>
                     </div>
                     <div class="col-md-4">
-                        <h4>Entrar em contato: </h4>
-                        <a href=""><i class="fab fa-twitter"></i></a>
-                        <a href=""><i class="fab fa-facebook-f"></i></a>
-                        <a href=""><i class="fab fa-youtube"></i></a>
-                        <a href=""><i class="fab fa-instagram"></i></a>
-                        <a href=""><i class="fab fa-linkedin-in"></i></a>
+                        <h4>Midias Sociais: </h4>
+                        <a href="https://twitter.com/senacpe"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.facebook.com/senacpe"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/senacpe/"><i class="fab fa-youtube"></i></a>
+                        <a href="https://www.youtube.com/user/SenacPernambuco"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/company/senacpe/"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
             </div>
